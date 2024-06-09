@@ -1,4 +1,5 @@
-<!-- Zphisher -->
+<!-- Zphisher m
+-->
 
 <p align="center">
   <img src=".github/misc/logo.png">
@@ -53,6 +54,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
+  RJ 
   git clone --depth=1 https://github.com/htr-tech/zphisher.git
   ```
 
@@ -79,7 +81,7 @@ $ zphisher
 ##
 
 <p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/htr-tech/zphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+  <a href="https://shell.cloud.google.com/cloud shell/open?cloudshell_git_repo=https://github.com/htr-tech/zphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
 </p>
 
 ##
